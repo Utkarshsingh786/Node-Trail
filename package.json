@@ -1,0 +1,27 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "nothing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Utkarshsingh786/Node-Trail.git"
+  },
+  "keywords": [
+    "code",
+    "by",
+    "utkarsh"
+  ],
+  "author": "utkarsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Utkarshsingh786/Node-Trail/issues"
+  },
+  "homepage": "https://github.com/Utkarshsingh786/Node-Trail#readme",
+  "dependencies": {
+    "node": "^19.6.1"
+  }
+}
